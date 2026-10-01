@@ -1,0 +1,7 @@
+# Lokala verktygsinställningar (förhandsvisning i Claude Code)
+.claude/
+
+# Systemfiler
+.DS_Store
+Thumbs.db
+desktop.ini
